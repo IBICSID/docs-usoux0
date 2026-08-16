@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-shvnie.biggamingwin.online/sitemap.xml
